@@ -1,8 +1,12 @@
 # nginx
+debian:jessie
+debian:stretch
 # debian:buster
+debian:bullseye
+debian:bookwarm
 # ubuntu:20.04
-ubuntu:22.04
-ubuntu:24.04
+# ubuntu:22.04
+# ubuntu:24.04
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
