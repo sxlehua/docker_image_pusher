@@ -1,9 +1,9 @@
 # nginx
-debian:jessie
-debian:stretch
+# debian:jessie
+# debian:stretch
 # debian:buster
-debian:bullseye
-debian:bookwarm
+# debian:bullseye
+debian:bookworm
 # ubuntu:20.04
 # ubuntu:22.04
 # ubuntu:24.04
