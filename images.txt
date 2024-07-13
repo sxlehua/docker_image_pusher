@@ -1,9 +1,9 @@
 # nginx
-debian:jessie
-debian:stretch
-debian:buster
-debian:bullseye
-debian:bookworm
+# debian:jessie
+# debian:stretch
+# debian:buster
+# debian:bullseye
+# debian:bookworm
 # ubuntu:20.04
 # ubuntu:22.04
 # ubuntu:24.04
@@ -11,6 +11,9 @@ debian:bookworm
 # amazoncorretto:17
 # amazoncorretto:21
 # mysql:8.0-bookworm
+amazonlinux:1
+amazonlinux:2
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
