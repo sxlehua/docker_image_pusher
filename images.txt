@@ -11,8 +11,9 @@
 # amazoncorretto:17
 # amazoncorretto:21
 # mysql:8.0-bookworm
-amazonlinux:1
-amazonlinux:2
+# amazonlinux:1
+# amazonlinux:2
+openeuler/openeuler:22.03
 
 
 #支持私库
