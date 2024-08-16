@@ -16,8 +16,9 @@
 # openeuler/openeuler:22.03
 # --platform=linux/arm64/v8 mysql:8.0
 # --platform=linux/arm64/v8 mysql
---platform=linux/arm64/v8 redis:6
---platform=linux/arm64/v8 redis:7
+# --platform=linux/arm64/v8 redis:6
+# --platform=linux/arm64/v8 redis:7
+--platform=linux/arm64/v8 nacos/nacos-server
 
 
 #支持私库
