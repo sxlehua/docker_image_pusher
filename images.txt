@@ -18,7 +18,8 @@
 # --platform=linux/arm64/v8 mysql
 # --platform=linux/arm64/v8 redis:6
 # --platform=linux/arm64/v8 redis:7
---platform=linux/arm64/v8 nacos/nacos-server
+# --platform=linux/arm64/v8 nacos/nacos-server
+--platform=linux/arm64/v8 alpine
 
 
 #支持私库
