@@ -14,6 +14,7 @@
 # amazonlinux:1
 # amazonlinux:2
 # openeuler/openeuler:22.03
+--platform=linux/arm64/v8 mysql:8.0
 --platform=linux/arm64/v8 mysql
 
 
