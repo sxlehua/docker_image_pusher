@@ -20,7 +20,7 @@
 # --platform=linux/arm64/v8 redis:7
 # --platform=linux/arm64/v8 nacos/nacos-server
 # --platform=linux/arm64/v8 alpine
---platform=linux/arm64/v8 mongo
+--platform=linux/arm64/v8 mongo:5.0-rc-focal
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
