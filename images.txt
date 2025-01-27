@@ -4,6 +4,7 @@
 # debian:buster
 # debian:bullseye
 # debian:bookworm
+debian:jessie
 # ubuntu:20.04
 # ubuntu:22.04
 # ubuntu:24.04
@@ -20,7 +21,7 @@
 # --platform=linux/arm64/v8 redis:7
 # --platform=linux/arm64/v8 nacos/nacos-server
 # --platform=linux/arm64/v8 alpine
---platform=linux/arm64/v8 mongo:4.4
+# --platform=linux/arm64/v8 mongo:4.4
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
