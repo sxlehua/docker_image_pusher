@@ -23,7 +23,11 @@
 # --platform=linux/arm64/v8 nacos/nacos-server
 # --platform=linux/arm64/v8 alpine
 # --platform=linux/arm64/v8 mongo:4.4
+--platform=linux/arm64/v8 eclipse-temurin:8-noble
+--platform=linux/arm64/v8 eclipse-temurin:11-noble
+--platform=linux/arm64/v8 eclipse-temurin:17-noble
 --platform=linux/arm64/v8 eclipse-temurin:21-noble
+--platform=linux/arm64/v8 eclipse-temurin:24-noble
 # redis:6
 # redis:6-alpine
 
