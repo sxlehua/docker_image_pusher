@@ -17,12 +17,13 @@
 # openeuler/openeuler:22.03
 # --platform=linux/arm64/v8 mysql:8.0
 # --platform=linux/arm64/v8 mysql
---platform=linux/arm64/v8 redis:6
---platform=linux/arm64/v8 redis:6-alpine
+# --platform=linux/arm64/v8 redis:6
+# --platform=linux/arm64/v8 redis:6-alpine
 # --platform=linux/arm64/v8 redis:7
 # --platform=linux/arm64/v8 nacos/nacos-server
 # --platform=linux/arm64/v8 alpine
 # --platform=linux/arm64/v8 mongo:4.4
+--platform=linux/arm64/v8 eclipse-temurin:21-noble
 # redis:6
 # redis:6-alpine
 
